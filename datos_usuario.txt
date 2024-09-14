@@ -1,3 +1,1 @@
 “Usuario=vagrant”
-model name=cpu cores	: 2
-cpu cores	: 2
