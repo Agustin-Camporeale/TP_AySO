@@ -1,1 +1,3 @@
 “Usuario=vagrant”
+[MODEL NAME]=model name	: AMD Ryzen 5 1600 Six-Core Processor
+model name	: AMD Ryzen 5 1600 Six-Core Processor
