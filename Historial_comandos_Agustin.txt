@@ -1,0 +1,316 @@
+Historial_comandos=cd repogit/
+cd UTN-FRA_SO_onBording/
+ls -l
+cd ssh
+ls -l
+cd config.d/
+ls -l
+cd ssh_casa.conf
+cd $HOME
+ssh-keygen 
+cat /.ssh.pub
+cat /ssh.pub
+cat /.ssh/ssh.pub
+cat ssh.pub
+cd repogit/
+git clone git@github.com:Agustin-Camporeale/TP_AySO.git
+sudo git clone git@github.com:Agustin-Camporeale/TP_AySO.git
+sudo git clone git@github.com:Agustin-Camporeale/TP_AySO.git
+sudo -i
+sudo -i
+cd repogit/
+cd TP_AySO/
+lll
+ll
+cat datos_usuario.txt 
+echo "model name=$(grep model name"
+
+
+
+ll
+echo "model name=$(grep model name /proc/cpuinfo">datos_usuario.txt
+echo "model name=$(grep model name /proc/cpuinfo">>datos_usuario.txt
+echo "model name=$(grep model name /proc/cpuinfo")>datos_usuario.txt
+echo "model name=$(grep model name /proc/cpuinfo")>>datos_usuario.txt
+
+
+
+
+
+echo "model name=$(grep name /proc/cpuinfo")>>datos_usuario.txt
+
+
+
+
+
+
+
+
+
+
+
+
+cat datos_usuario.txt 
+echo "model name=$(grep name /proc/cpuinfo)">>datos_usuario.txt
+cat datos_usuario.txt 
+echo "model name=$(grep name /proc/cpuinfo)">>datos_usuario.txt head n-1
+cat datos_usuario.txt 
+rm from datos_usuario.txt tail -1
+rm from datos_usuario.txt tail 
+ll
+ls
+cd repogit/
+cd TP_AySO/
+ll
+cat datos_usuario.txt 
+grep "model name" /proc/cpuinfo
+grep "model name" /proc/cpuinfo tail-n1
+grep "model name" /proc/cpuinfo tail -n1
+grep "model name" /proc/cpuinfo tail -n2
+grep "model name" /proc/cpuinfo tail -n23
+grep "model name" /proc/cpuinfo tail -n3
+grep "model name" /proc/cpuinfo tail -n0
+grep "model name" /proc/cpuinfo tail -n-1
+grep "model name" /proc/cpuinfo head -n1
+git add .
+git commit -m “feat: Añadiendo información de CPU”
+git status
+echo "model name=$(grep cores /proc/cpuinfo)">>datos_usuario.txt
+git add .
+git commit -m "feat: Añadiendo información de CPU"
+ll
+cat datos_usuario.txt 
+rm datos_usuario.txt 
+ll
+git status
+echo “Usuario=$(whoami)” > datos_usuario.txt
+git add .
+git config --global user.mail "agustin15camporeale@gmail.com"
+git config --global user.name "Agustin-Camporeale"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+cat datos_usuario.txt 
+ls -l
+grep "model name"/proc/cpuinfo
+grep "model name" /proc/cpuinfo
+grep head -n1 "model name" /proc/cpuinfo 
+head -n1grep "model name" /proc/cpuinfo 
+head -n1 grep "model name" /proc/cpuinfo 
+tail -n1 grep "model name" /proc/cpuinfo 
+grep "model name" /proc/cpuinfo
+grep "model name" /proc/cpuinfo tail -n1
+grep "model name" /proc/cpuinfo tail -n3
+grep "model name33" /proc/cpuinfo tail 
+grep "model name:33:" /proc/cpuinfo tail 
+grep ":33:model name" /proc/cpuinfo tail 
+grep "model name" /proc/cpuinfo tail 
+grep /proc/cpuinfo tail n7
+grep /proc/cpuinfo tail -n7
+grep model /proc/cpuinfo tail -n7
+grep model /proc/cpuinfo tail -n5
+grep model /proc/cpuinfo tail -n2
+grep model /proc/cpuinfo tail -n1
+grep model /proc/cpuinfo tail -n0
+grep model name /proc/cpuinfo tail -n0
+grep model name /proc/cpuinfo tail -n1
+grep model name /proc/cpuinfo tail 
+amd /proc/cpuinfo tail 
+grep amd /proc/cpuinfo tail 
+grep model /proc/cpuinfo tail 
+grep model /proc/cpuinfo tail -1
+grep model /proc/cpuinfo tail -2
+grep model /proc/cpuinfo tail -5
+grep model /proc/cpuinfo tail -0
+grep model /proc/cpuinfo tail 1
+grep model /proc/cpuinfo tail 0
+grep model /proc/cpuinfo tail 10
+grep model /proc/cpuinfo tail 1015
+grep model name /proc/cpuinfo tail 
+grep name /proc/cpuinfo tail 
+grep name /proc/cpuinfo head 1
+grep name /proc/cpuinfo head -1
+grep name /proc/cpuinfo head -n1
+grep name /proc/cpuinfo head -15
+grep name /proc/cpuinfo head -5
+grep name /proc/cpuinfo head -1
+grep name /proc/cpuinfo head 
+grep name /proc/cpuinfo head 0
+head 0 grep name /proc/cpuinfo 
+head 1 grep name /proc/cpuinfo 
+tail -1 grep name /proc/cpuinfo 
+tail n-1 grep name /proc/cpuinfo 
+head 1 grep name /proc/cpuinfo 
+grep name /proc/cpuinfo 
+echo "model name=$(grep name /proc/cpuinfo head -1">>datos_usuario.txt
+cd repogit/
+ls ll
+ll
+sudo -i
+cd repogit/
+ll
+cd TP
+git clone git@github.com:Agustin-Camporeale/TP_AySO.git
+cat .ssh.pub
+cat /.ssh.pub
+cat $HOME/vagrant/.ssh.pub
+cd ..
+ll
+cat ssh.pub
+cd .ssh
+ll
+cat .ssh.pub
+cat /.ssh.pub
+cat /.ssh/ssh.pub
+cd ..
+cd repogit/
+git clone git@github.com:Agustin-Camporeale/TP_AySO.git
+sudo git clone git@github.com:Agustin-Camporeale/TP_AySO.git
+sudo -i
+ssh-keygen
+cat id_rsa.pub
+cat /.ssh/id_rsa.pub
+cat /vagrant//.ssh/id_rsa.pub
+cat /vagrant/.ssh/id_rsa.pub
+cat /home/vagrant/.ssh/id_rsa.pub
+cd repogit/
+ll
+git clone git@github.com:Agustin-Camporeale/TP_AySO.git
+cd TP_AySO/
+ll
+grep HOME_URL /etc/os-release
+man grep
+grep home_url /etc/os-release
+grep _F Home_url /etc/os-release 
+grep -F Home_url /etc/os-release 
+grep home_url /etc/os-release
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt
+git add .
+git config --global user.email "agustin15camporeale@gmail.com"
+git config --global user.name "Agustin-Camporeale"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+cpuinfo
+ll
+cd ..
+ll
+cd proc/
+ll
+cd cpuinfo
+cpuinfo
+cat cpuinfo
+cd ..
+cd home
+cd vagrant/
+cd repogit/
+cd TP_AySO/
+ll
+git status
+cat datos_usuario.txt
+cat /etc/os-release
+ls -l
+cat /proc/cpuinfo
+grep cpu cores
+grep /proc/cpuinfo
+cat /proc/cpuinfo
+grep cpu cores/proc/cpuinfo 
+grep cpu cores /proc/cpuinfo 
+grep cpucores /proc/cpuinfo 
+grep cpu cores /proc/cpuinfo 
+grep -F cpu cores /proc/cpuinfo 
+grep -G cpu cores /proc/cpuinfo 
+man grep
+grep -F Cpu Cores /proc/cpuinfo 
+grep -G Cpu Cores /proc/cpuinfo 
+man grep
+grep -P Cpu Cores /proc/cpuinfo 
+man grep
+grep -E Cpu Cores /proc/cpuinfo 
+grep -E Cpu cores /proc/cpuinfo 
+grep -E cpu cores /proc/cpuinfo 
+grep -E cpu cores : 2 /proc/cpuinfo 
+grep cpu cores : 2 /proc/cpuinfo 
+grep cpu2 cores : 2 /proc/cpuinfo 
+grep cpu cores : 2 /proc/cpuinfo 
+grep cpu_cores : 2 /proc/cpuinfo 
+grep cpucores : 2 /proc/cpuinfo 
+grep cpu cores : 2 /proc/cpuinfo 
+grep cores : 2 /proc/cpuinfo 
+grep cores : 2 /proc/cpuinfo head -n1
+grep cores : 2 /proc/cpuinfo 
+grep cores /proc/cpuinfo 
+grep cores /proc/cpuinfo tail -n1
+pwd
+cd repogit/
+cd TP_AySO/
+grep "model name" /proc/cpuinfo
+clear
+git commit -m "ADD: agregado 1er ejercicio
+sobre datos_usuarios.txt"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+ll
+git status
+echo "model name=$(grep model name /proc/cpuinfo">>datos_usuario.txt
+cd ..
+cd ..
+zz
+exit
+cd repogit/
+cd TP_AySO/
+ls -l
+ll
+echo “Usuario=$(whoami)” > datos_usuario.txt
+git add .
+git config --global user.email "agustin15camporeale@gmail.com"
+git config --global user.name "Agustin-Camporeale"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+ls -l
+echo "[MODEL NAME]=$(grep "model name" /proc/cpuinfo)">>datos_usuario.txt 
+git add .
+git commit -m "feat: Añadiendo información de CPU"
+cat datos_usuario.txt 
+cat /etc/passwd
+man grep
+clear
+grep -v nologin /etc/passwd
+grep -v nologin /etc/passwd head 10
+grep -v nologin /etc/passwd head 1
+grep /etc/passwd 
+cat /etc/passwd
+echo "lista_ordenada=$(grep -v nologin /etc/passwd head 10)>lista_ordenada.txt
+echo "lista_ordenada=$(grep -v nologin /etc/passwd head 10)>>lista_ordenada.txt
+echo "lista_ordenada=$(grep -v nologin /etc/passwd head 10")>lista_ordenada.txt
+echo "lista_ordenada=$(grep -v nologin /etc/passwd head 10)">lista_ordenada.txt
+echo "lista_ordenada=$(grep -v nologin /etc/passwd head 10)">>lista_ordenada.txt
+echo "lista_ordenada=$(grep -v nologin /etc/passwd head n10)">>lista_ordenada.txt
+echo "lista_ordenada=$(head 10 grep -v nologin /etc/passwd)">>lista_ordenada.txt
+echo "lista_ordenada=$(grep -v nologin head 10 /etc/passwd)">>lista_ordenada.txt
+echo "lista_ordenada=$(grep -v nologin /etc/passwd)">>lista_ordenada.txt head 10
+git commit -m "ADD:Listado de usuarios ordenada"
+git add .
+git commit -m "ADD:Listado de usuarios ordenada"
+dumb traffic
+snap info dumb
+dumb --h
+help tcpdomp
+info tcpdomp
+man -k tcpdomp
+tcpdump
+sudo info tcpdomp
+sudo info tcpdump
+echo "Comando_dump_net=$(tcpdump)">comando_dump_net.txt
+echo "Comando_dump_net=$('tcpdump')">comando_dump_net.txt
+echo "Comando_dump_net=$('tcpdump ')">comando_dump_net.txt
+echo "Comando_dump_net=('tcpdump')">comando_dump_net.txt
+git add .
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+cat << E0F > README.md
+Alumno:Agustín Camporeale
+Division:213
+Turno:Tarde
+E0F
+
+git add .
+git -m commit "ADD:datos del alumno al archivo README.md"
+git commit -m "ADD:datos del alumno al archivo README.md"
+history -a
